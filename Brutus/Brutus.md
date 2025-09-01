@@ -1,5 +1,5 @@
 # HTB Brutus
----
+
 ![htb logo](./Images/htb_logo.png)
 
 | Date       | Author          | Difficulty | Challenge Type |
