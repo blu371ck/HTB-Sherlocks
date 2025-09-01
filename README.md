@@ -4,13 +4,8 @@
 
 | Name | Difficulty | Category | Location |
 | -- | -- | -- | -- |
-| Brutus | Very Easy | DFIR | |
-| Phantom Check | Very Easy | DFIR | |
-| Smoke & Mirrors | Very Easy | DFIR | |
-| Dream Job-1 | Very Easy | Threat Intelligence | |
-| SmartyPants | Very Easy | DFIR | |
-| | | | | 
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Brutus | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Brutus/Brutus.md) |
+| Phantom Check | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Phantom-Check/Phantom-Check.md) |
+| Smoke & Mirrors | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Smoke-and-Mirrors/Smoke-and-Mirrors.md) |
+| Dream Job-1 | Very Easy | Threat Intelligence | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Dream-Job-1/Dream-Job-1.md) |
+| SmartyPants | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/SmartyPants/SmartyPants.md) |
