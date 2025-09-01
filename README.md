@@ -9,3 +9,4 @@
 | Smoke & Mirrors | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Smoke-and-Mirrors/Smoke-and-Mirrors.md) |
 | Dream Job-1 | Very Easy | Threat Intelligence | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Dream-Job-1/Dream-Job-1.md) |
 | SmartyPants | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/SmartyPants/SmartyPants.md) |
+| UFO-1 | Very Easy | Threat Intelligence | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/UFO-1/UFO-1.md) |
