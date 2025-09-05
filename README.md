@@ -11,4 +11,4 @@
 | SmartyPants | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/SmartyPants/SmartyPants.md) |
 | UFO-1 | Very Easy | Threat Intelligence | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/UFO-1/UFO-1.md) |
 | CrownJewel-1 | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/CrownJewel-1/CrownJewel-1.md) |
-| CrownJewel-2 | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/CrownJewel-2/CornwJewel-2.md) |
+| CrownJewel-2 | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/CrownJewel-2/CrownJewel-2.md) |
