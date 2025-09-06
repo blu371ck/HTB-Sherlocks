@@ -14,3 +14,4 @@
 | CrownJewel-2 | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/CrownJewel-2/CrownJewel-2.md) |
 | Reaper | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Reaper/Reaper.md) |
 | Noxious | Very Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Noxious/Noxious.md) |
+| Campfire-1 | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Campfire-1/Campfire-1.md) |
