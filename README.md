@@ -17,3 +17,4 @@
 | Campfire-1 | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Campfire-1/Campfire-1.md) |
 | Campfire-2 | Very Easy | DIFR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Campfire-2/Campfire-2.md) |
 | Unit42 | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Unit42/Unit42.md) |
+| BFT | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/BFT/BFT.md) |
