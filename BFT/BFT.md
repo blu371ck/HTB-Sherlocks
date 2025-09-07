@@ -4,7 +4,7 @@
 
 | Date       | Author          | Difficulty | Challenge Type |
 | ---------- | --------------- | ---------- | -------------- |
-| 2025-09-06 | Andrew McKenzie | \<DIFF>    | \<Type>        |
+| 2025-09-06 | Andrew McKenzie | Very Easy | DFIR |
 
 ---
 ## Description
