@@ -19,3 +19,4 @@
 | Unit42 | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Unit42/Unit42.md) |
 | BFT | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/BFT/BFT.md) |
 | Origins | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Origins/Origins.md) |
+| Ghost Thread | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/GhostThread/GhostThread.md) |
