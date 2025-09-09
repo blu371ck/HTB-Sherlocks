@@ -21,3 +21,4 @@
 | Origins | Very Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Origins/Origins.md) |
 | Ghost Thread | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Ghost-Thread/GhostThread.md) |
 | NeuroSync-D | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/NeuroSync-D/NeuroSync-D.md) |
+| Pikaptcha | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Pikaptcha/Pikaptcha.md) |
