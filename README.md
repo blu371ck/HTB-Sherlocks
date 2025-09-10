@@ -25,3 +25,4 @@
 | Meerkat | Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Meerkat/Meerkat.md) |
 | Bumblebee | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Bumblebee/Bumblebee.md) |
 | LogJammer | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/LogJammer/LogJammer.md) |
+| TeamWork | Easy | Threat Intelligence | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/TeamWork/TeamWork.md) |
