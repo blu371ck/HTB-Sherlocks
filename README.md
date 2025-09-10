@@ -23,3 +23,4 @@
 | NeuroSync-D | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/NeuroSync-D/NeuroSync-D.md) |
 | Pikaptcha | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Pikaptcha/Pikaptcha.md) |
 | Meerkat | Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Meerkat/Meerkat.md) |
+| Bumblebee | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Bumblebee/Bumblebee.md) |
