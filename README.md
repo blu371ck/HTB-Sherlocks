@@ -29,3 +29,4 @@
 | TeamWork | Easy | Threat Intelligence | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/TeamWork/TeamWork.md) |
 | Kuber | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Kuber/Kuber.md) |
 | Loggy | Easy | Malware Analysis | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Loggy/Loggy.md) |
+| Psittaciformes | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Psittaciformes/Psittaciformes.md) |
