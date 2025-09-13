@@ -34,3 +34,4 @@
 | OpTinselTrace24-2-Cookie-Consumption | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/OpTinselTrace24-2-Cookie-Consumption/OpTinselTrace24-2-Cookie-Consumption.md) |
 | Compromised | Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Compromised/Compromised.md) |
 | Takedown | Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Takedown/Takedown.md) |
+| OpSalwarKameez24-5-Bling-Bling | Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/OpSalwarKameez24-5-Bling-Bling/OpSalwarKameez24-5-Bling-Bling.md) |
