@@ -30,4 +30,5 @@
 | Kuber | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Kuber/Kuber.md) |
 | Loggy | Easy | Malware Analysis | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Loggy/Loggy.md) |
 | Psittaciformes | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Psittaciformes/Psittaciformes.md) |
-| OpsTinselTrace24-4-Neural-Noel | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/OpTinselTrace24-4-Neural-Noel/OpTinselTrace24-4-Neural-Noel.md) |
+| OpTinselTrace24-4-Neural-Noel | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/OpTinselTrace24-4-Neural-Noel/OpTinselTrace24-4-Neural-Noel.md) |
+| OpTinselTrace24-2-Cookie-Consumption | Easy | DFIR | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/OpTinselTrace24-2-Cookie-Consumption/OpTinselTrace24-2-Cookie-Consumption.md) |
