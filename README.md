@@ -35,3 +35,4 @@
 | Compromised | Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Compromised/Compromised.md) |
 | Takedown | Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Takedown/Takedown.md) |
 | OpSalwarKameez24-5-Bling-Bling | Easy | SOC | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/OpSalwarKameez24-5-Bling-Bling/OpSalwarKameez24-5-Bling-Bling.md) |
+| Heartbreaker-Continuum | Easy | Malware Analysis | [Link](https://github.com/blu371ck/HTB-Sherlocks/blob/main/Heartbreaker-Continuum/Heartbreaker-Continuum.md) |
